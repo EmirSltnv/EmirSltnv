@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emir Soltonov
 
-I'm a **Backend & Full-Stack Developer** passionate about **real-time systems, microservices, and scalable architectures**.  
+I'm a **Software Engineer** passionate about **real-time systems, microservices, and scalable architectures**.  
 Currently pursuing **Computer Science at Eötvös Loránd University** (2023–2026).  
 
 ---
