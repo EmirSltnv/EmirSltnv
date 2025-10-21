@@ -36,10 +36,6 @@ Currently pursuing **Computer Science at Eötvös Loránd University** (2023–2
 ## 💼 Experience Highlights
 
 **Software Engineer Intern — DiGi (Deeptech Company), Bishkek (Jan 2025 – Jun 2025)**  
-- Developed internal automation tools with **Python** and **Bash**, reducing manual data processing by **30%**  
-- Implemented CI/CD pipelines using **Git, Docker, GitHub Actions**, reducing deployment errors by **25%**  
-- Collaborated on AI/ML prototypes with **PyTorch**, improving predictive model accuracy by **15%**  
-- Processed and visualized large datasets with **Pandas** and **Matplotlib**, cutting reporting time by **40%**  
 
 ---
 
